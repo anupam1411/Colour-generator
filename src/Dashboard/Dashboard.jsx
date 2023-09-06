@@ -38,7 +38,7 @@ function Dashboard() {
               placeholder="#ff00ff"
               className={`${error ? "error" : null}`}
               //   eslint-disable-next-line react/jsx-no-duplicate-props
-              className="w-[200px]
+              class="w-[200px]
               px-4
               py-2
               text-gray-700
